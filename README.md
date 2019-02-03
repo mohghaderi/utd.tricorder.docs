@@ -1,3 +1,3 @@
-# UTD.Tricorder
+# UTD.Tricorder Documents
 
-This is a testing project sample
+Documentation project
