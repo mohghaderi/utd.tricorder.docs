@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://mohghaderi.github.io/utd.tricorder.docs/"><img src="/images/utd-tricorder-icon.svg" width="160" alt="Tricorder Icon" /></a>
+    <a href="https://mohghaderi.github.io/utd.tricorder.docs/"><img src="https://github.com/mohghaderi/utd.tricorder/raw/master/static/utd-tricorder-icon.svg?sanitize=true" width="160" alt="Tricorder Icon" /></a>
 </p>
 <h3 align="center"><a href="https://mohghaderi.github.io/utd.tricorder.docs/">UTD.Tricorder Documents</a></h3>
 <p align="center">A platform to develop web-based telemedicine research applications

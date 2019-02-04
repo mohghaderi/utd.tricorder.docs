@@ -1,6 +1,4 @@
-### Notes
-
-This project started in 2013 and the development stopped in 2014.
+This project started in 2013 and the development stopped in 2015.
 It was intended to be used as a single research application, and 
 the main goal was to research new software architectures and innovate software engineering techniques.
 Therefore, you may find many technologies are not used the way is used in other projects, 
@@ -19,7 +17,7 @@ I am planning to open-source that one, too. However, if you're interested to hav
 
 ### How to use
 
-To start using the project, you need to download the latest release from [releases](https://github.com/mohghaderi/utd.tricorder.docs/releases/download/v0.0.1-alpha/depositphotos_58328701-stock-illustration-isometric-financial-flowchart.jpg).
+To start using the project, you need to download the latest release from [releases](https://github.com/mohghaderi/utd.tricorder/releases).
 You can customize the application by modifying the source code. The project doesn't have a separate documentation.
 
 ### Pre-requisite
