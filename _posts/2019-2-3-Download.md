@@ -20,6 +20,8 @@ I am planning to open-source that one, too. However, if you're interested to hav
 To start using the project, you need to download the latest release from [releases](https://github.com/mohghaderi/utd.tricorder/releases).
 You can customize the application by modifying the source code. The project doesn't have a separate documentation.
 
+[DOWNLOAD](https://github.com/mohghaderi/utd.tricorder/releases){: .btn}
+
 ### Pre-requisite
 - [Visual Studio Community Edition (2015+)](https://visualstudio.microsoft.com/downloads/)
 - [SQL Server Express (2016+)](https://www.microsoft.com/en-us/sql-server/sql-server-editions-express)
